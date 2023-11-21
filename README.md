@@ -1,2 +1,2 @@
 # Instruction
-Digital Education
+Digital Education CS411
